@@ -7,6 +7,6 @@ File descriptions:
 
     > Python notebook containing hackerrank exerices; each module begin with bold text followed by the name and code of each exercise.
 
--   **HW1 - Hackerrank Submissions.pdf**
+-   **stamps.pdf**
 
     > PDF of the printout of the hackerrank submissions pages.
